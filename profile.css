@@ -1,5 +1,6 @@
 body{
     background-color:rgb(194, 184, 184);
+    margin: 20px;
 
 }
 facebook {
@@ -33,6 +34,9 @@ footer{
     margin: 20px;
 
 }
+.last{
+    float:right
+
   
   
 
