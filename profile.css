@@ -18,15 +18,11 @@ facebook {
   }
   h3{
       color:blue;
-      max-width: 2opx;
+      text-align: left;
   } 
-.one{
-    margin-right:5%;
-    float: left;
-}
 .profile{
     box-flex-group: 20px;
-    margin-left:5%;
+    margin-right:15%;
    
 }
 h3{
