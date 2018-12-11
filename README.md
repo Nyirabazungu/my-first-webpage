@@ -12,6 +12,10 @@ this project is about me ,my first website, my favorite things...
 
 -Nyirabazungu Valentine < nyanki6@gmail.com>
 
+ ##link to live site on GitHub pages
+
+  https://github.com/Nyirabazungu/my-profile.html
+
 ## lisence &copyright
 
 (c) Nyirabazungu Valentine,2018
