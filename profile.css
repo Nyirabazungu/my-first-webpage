@@ -2,16 +2,6 @@ body{
     background-color:rgb(194, 184, 184);
 
 }
-image{
-    float: right;
-    margin-top: 30px;
-    margin-inline-end:100px;
-
-}
-div{
-    padding: 5px;
-    box-shadow: 5px 3px 5px blueviolet;
-}
 facebook {
     background: #3B5998;
     color: white;
@@ -23,7 +13,22 @@ facebook {
   }
   
   .google {
-    background: #dd4b39;
+    background:rgb(247, 53, 53);
     color: white;
   }
+  h3{
+      color:blue;
+      text-align: left;
+  } 
+.one{
+    margin-right:5%;
+    float: left;
+}
+.profile{
+    box-flex: 20px;
+   
+}
+  
+  
+
   
