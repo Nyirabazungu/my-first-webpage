@@ -13,20 +13,27 @@ facebook {
   }
   
   .google {
-    background:rgb(247, 53, 53);
+    background:blue;
     color: white;
   }
   h3{
       color:blue;
-      text-align: left;
+      max-width: 2opx;
   } 
 .one{
     margin-right:5%;
     float: left;
 }
 .profile{
-    box-flex: 20px;
+    box-flex-group: 20px;
+    margin-left:5%;
    
+}
+h3{
+    color:blue;
+}
+footer{
+    box-shadow: 3px 3px 3px 3px blue;
 }
   
   
